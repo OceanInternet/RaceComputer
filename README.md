@@ -1,5 +1,5 @@
 # Arduino Race Computer
-Arduino based dinghy race computer using 9DOF+GPS with csv logging for Raceqs.
+Arduino based dinghy race computer using 9DOF+GPS, with csv logging for [Raceqs](http://raceqs.com/).
 
 Will log the following:
 
@@ -11,8 +11,8 @@ Will log the following:
 Will display the following:
 
 * Heading
-* Roll
-* Heel
+* COG/SOG
+* Trim/Heel
 * Lift/Head
 
 ## Hardware
