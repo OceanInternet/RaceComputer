@@ -1,4 +1,4 @@
-# arduino-race-computer
+# Arduino Race Computer
 Arduino based dinghy race computer using 9DOF+GPS with Raceqs format logging.
 
 Will log the following:
