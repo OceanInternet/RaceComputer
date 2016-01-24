@@ -1,6 +1,3 @@
 [submodule "RaceComputer/libraries/RaceComputer"]
 	path = RaceComputer/libraries/RaceComputer
 	url = git@github.com:OceanInternet/arduino-race-computer.git
-[submodule "RaceComputer/libraries/avr-stl"]
-	path = RaceComputer/libraries/avr-stl
-	url = git@github.com:peterpolidoro/avr-stl.git
