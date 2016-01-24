@@ -1,3 +1,6 @@
 [submodule "RaceComputer/libraries/RaceComputer"]
 	path = RaceComputer/libraries/RaceComputer
 	url = git@github.com:OceanInternet/arduino-race-computer.git
+[submodule "RaceComputer/libraries/FifoStack"]
+	path = RaceComputer/libraries/FifoStack
+	url = git@github.com:OceanInternet/arduino-fifo-stack.git
